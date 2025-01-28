@@ -1,7 +1,7 @@
 % Dr Hollie Wright (h.wright@hw.ac.uk)
 % Thickness measurements of 10 pairs of machinist's parallels
 % Published open access 15th January 2025
-% https://drholliewright.wordpress.com/open-access-research/
+% https://github.com/drholliewright/Journal-of-Physics-B-2025/
 
 %% Load ranging data and calculate thicknesses
 clear all
